@@ -1,2 +1,2 @@
 * Readme
-    Open firefox and type ‘se’, then copy the contents of surfing-keys.cfg. You need to enable advanced configuration mode.
+    Open firefox and type ‘;e’, then copy the contents of surfing-keys.cfg. You need to enable advanced configuration mode.
