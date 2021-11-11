@@ -1,3 +1,5 @@
 * Readme
-    Open firefox and type ‘;e’, then copy the contents of [[./surfing-keys.js]]. You
-    need to enable advanced configuration mode.
+  Open firefox and type ‘;e’, then copy-paste the following link:
+  #+begin_example
+  https://gitlab.com/janmasrovira/surfing-keys-config/-/raw/master/surfing-keys.js
+  #+end_example
