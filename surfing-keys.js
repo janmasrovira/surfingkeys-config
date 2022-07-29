@@ -1,5 +1,5 @@
 settings.smoothScroll = false;
-imap("<Ctrl-g>", "<Esc>");
+// imap("<Ctrl-g>", "<Esc>");
 map("<Ctrl-g>", "<Esc>");
 map("J", "d");
 map("K", "e");
