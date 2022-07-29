@@ -1,10 +1,10 @@
 settings.smoothScroll = false;
-api.imap("<Ctrl-g>", "<Esc>");
-api.map("<Ctrl-g>", "<Esc>");
-api.map("J", "d");
-api.map("K", "e");
-api.cmap('<Ctrl-j>', '<Tab>');
-api.cmap('<Ctrl-k>', '<Shift-Tab>');
+imap("<Ctrl-g>", "<Esc>");
+map("<Ctrl-g>", "<Esc>");
+map("J", "d");
+map("K", "e");
+cmap('<Ctrl-j>', '<Tab>');
+cmap('<Ctrl-k>', '<Shift-Tab>');
 
 
 // set theme: See https://github.com/Foldex/surfingkeys-config
