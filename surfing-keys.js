@@ -1,11 +1,10 @@
 settings.smoothScroll = false;
-imap("<Ctrl-g>", "<Esc>");
-map("<Ctrl-g>", "<Esc>");
-map("J", "d");
-map("K", "e");
-cmap('<Ctrl-j>', '<Tab>');
-cmap('<Ctrl-k>', '<Shift-Tab>');
-
+api.imap("<Ctrl-g>", "<Esc>");
+api.map("<Ctrl-g>", "<Esc>");
+api.map("J", "d");
+api.map("K", "e");
+api.cmap('<Ctrl-j>', '<Tab>');
+api.cmap('<Ctrl-k>', '<Shift-Tab>');
 
 // set theme: See https://github.com/Foldex/surfingkeys-config
 
@@ -27,11 +26,10 @@ Visual.style('cursor', 'background-color: #88C0D0;');
 -- DELETE LINE TO ENABLE THEME */
 
 // Doom One
-Hints.style('border: solid 2px #282C34; color:#98be65; background: initial; background-color: #2E3440;');
-Hints.style("border: solid 2px #282C34 !important; padding: 1px !important; color: #51AFEF !important; background: #2E3440 !important;", "text");
-Visual.style('marks', 'background-color: #98be6599;');
-Visual.style('cursor', 'background-color: #51AFEF;');
-
+api.Hints.style('border: solid 2px #282C34; color:#98be65; background: initial; background-color: #2E3440;');
+api.Hints.style("border: solid 2px #282C34 !important; padding: 1px !important; color: #51AFEF !important; background: #2E3440 !important;", "text");
+api.Visual.style('marks', 'background-color: #98be6599;');
+api.Visual.style('cursor', 'background-color: #51AFEF;');
 
 
 settings.theme = `
