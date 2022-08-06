@@ -1,5 +1,8 @@
 * Readme
-  Open firefox and type ‘;e’, then copy-paste the following link:
-  #+begin_example
-  https://gitlab.com/janmasrovira/surfing-keys-config/-/raw/master/surfing-keys.js
-  #+end_example
+Open firefox and type ‘;e’, then copy-paste the following link:
+#+begin_example
+https://gitlab.com/janmasrovira/surfing-keys-config/-/raw/firefox/surfing-keys.js
+#+end_example
+
+This branch is needed because firefox is still using version 0.9.74 at this moment.
+When the version 1.0 is released it should be compatible with the main branch.
