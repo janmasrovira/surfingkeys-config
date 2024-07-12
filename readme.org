@@ -1,7 +1,7 @@
 * Readme
   Open the browser and type ‘;e’, then copy-paste the following link:
   #+begin_example
-  https://gitlab.com/janmasrovira/surfing-keys-config/-/raw/main/surfing-keys.js
+  https://raw.githubusercontent.com/janmasrovira/surfingkeys-config/main/surfing-keys.js
   #+end_example
 
   If you are using firefox, checkout the firefox branch.
